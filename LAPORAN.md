@@ -266,7 +266,9 @@ app/Views/
 
 ### 1. Halaman Login
 
-![Login](docs/login%20perpustakaan%20digital.png)
+<p align="center">
+  <img src="docs/login%20perpustakaan%20digital.png" alt="Login" width="600"/>
+</p>
 
 **Fitur:**
 - Form username dan password
@@ -281,7 +283,9 @@ app/Views/
 
 ### 2. Halaman Beranda (Daftar Buku)
 
-![Halaman Beranda](docs/halaman%20beranda%20perpustakaan%20digital.png)
+<p align="center">
+  <img src="docs/halaman%20beranda%20perpustakaan%20digital.png" alt="Halaman Beranda" width="800"/>
+</p>
 
 **Fitur:**
 - Tabel daftar buku
@@ -308,7 +312,9 @@ app/Views/
 
 ### 3. Halaman Detail Buku
 
-![Halaman Detail](docs/halaman%20detail.png)
+<p align="center">
+  <img src="docs/halaman%20detail.png" alt="Halaman Detail" width="700"/>
+</p>
 
 **Fitur:**
 - Cover buku (jika ada)
@@ -335,7 +341,9 @@ app/Views/
 
 ### 4. Halaman Edit Buku
 
-![Halaman Edit](docs/halaman%20edit%20perpustakaan%20digital.png)
+<p align="center">
+  <img src="docs/halaman%20edit%20perpustakaan%20digital.png" alt="Halaman Edit" width="700"/>
+</p>
 
 **Fitur:**
 - Pre-filled form dengan data existing

@@ -2,7 +2,9 @@
 
 Aplikasi Perpustakaan Digital berbasis web yang dibangun menggunakan CodeIgniter 4. Aplikasi ini memungkinkan pengelolaan data buku secara digital dengan fitur CRUD lengkap, autentikasi pengguna, pencarian, dan upload cover buku.
 
-![Halaman Beranda](docs/halaman%20beranda%20perpustakaan%20digital.png)
+<p align="center">
+  <img src="docs/halaman%20beranda%20perpustakaan%20digital.png" alt="Halaman Beranda" width="800"/>
+</p>
 
 ## 🚀 Fitur Utama
 
@@ -157,7 +159,9 @@ Aplikasi akan berjalan di: `http://localhost:8080`
 
 ### 1. Halaman Login
 
-![Login](docs/login%20perpustakaan%20digital.png)
+<p align="center">
+  <img src="docs/login%20perpustakaan%20digital.png" alt="Login" width="600"/>
+</p>
 
 - URL: `/login`
 - Autentikasi pengguna dengan username dan password
@@ -166,7 +170,9 @@ Aplikasi akan berjalan di: `http://localhost:8080`
 
 ### 2. Halaman Daftar Buku
 
-![Halaman Beranda](docs/halaman%20beranda%20perpustakaan%20digital.png)
+<p align="center">
+  <img src="docs/halaman%20beranda%20perpustakaan%20digital.png" alt="Halaman Beranda" width="800"/>
+</p>
 
 - URL: `/buku`
 - Menampilkan semua buku dalam bentuk tabel
@@ -176,7 +182,9 @@ Aplikasi akan berjalan di: `http://localhost:8080`
 
 ### 3. Halaman Detail Buku
 
-![Halaman Detail](docs/halaman%20detail.png)
+<p align="center">
+  <img src="docs/halaman%20detail.png" alt="Halaman Detail" width="700"/>
+</p>
 
 - URL: `/buku/detail/{id}`
 - Menampilkan informasi lengkap buku
@@ -185,7 +193,9 @@ Aplikasi akan berjalan di: `http://localhost:8080`
 
 ### 4. Halaman Tambah/Edit Buku
 
-![Halaman Edit](docs/halaman%20edit%20perpustakaan%20digital.png)
+<p align="center">
+  <img src="docs/halaman%20edit%20perpustakaan%20digital.png" alt="Halaman Edit" width="700"/>
+</p>
 
 - URL: `/buku/create` (tambah) atau `/buku/edit/{id}` (edit)
 - Form input data buku dengan validasi
