@@ -267,7 +267,7 @@ app/Views/
 ### 1. Halaman Login
 
 <p align="center">
-  <img src="docs/login%20perpustakaan%20digital.png" alt="Login" width="600"/>
+  <img src="docs/loginperpustakaandigital.png" alt="Login" width="600"/>
 </p>
 
 **Fitur:**
@@ -284,7 +284,7 @@ app/Views/
 ### 2. Halaman Beranda (Daftar Buku)
 
 <p align="center">
-  <img src="docs/halaman%20beranda%20perpustakaan%20digital.png" alt="Halaman Beranda" width="800"/>
+  <img src="docs/halamanberandaperpustakaandigital.png" alt="Halaman Beranda" width="800"/>
 </p>
 
 **Fitur:**
@@ -313,7 +313,7 @@ app/Views/
 ### 3. Halaman Detail Buku
 
 <p align="center">
-  <img src="docs/halaman%20detail.png" alt="Halaman Detail" width="700"/>
+  <img src="docs/halamandetail.png" alt="Halaman Detail" width="700"/>
 </p>
 
 **Fitur:**
@@ -342,7 +342,7 @@ app/Views/
 ### 4. Halaman Edit Buku
 
 <p align="center">
-  <img src="docs/halaman%20edit%20perpustakaan%20digital.png" alt="Halaman Edit" width="700"/>
+  <img src="docs/halamaneditperpustakaandigital.png" alt="Halaman Edit" width="700"/>
 </p>
 
 **Fitur:**
